@@ -31,8 +31,13 @@ function filterCharacters(type) {
 //   }
 
 
+function sum(a, b) {
+  return a + b;
+}
+
 module.exports = {
   all: peeps,
   find: getCharacters,
-  filter: filterCharacters
+  filter: filterCharacters,
+  sum: sum
 };
