@@ -5,7 +5,9 @@ const peeps = [
   {name: 'Worf', type: 'st'},
   {name: 'Laforge', type: 'st'},
   {name: 'Chewie', type: 'sw'},
-  {name: 'Hans Solo', type: 'sw'}
+  {name: 'Hans Solo', type: 'sw'},
+  {name: 'R2D2', type: 'sw'},
+  {name: 'Tasha Yar', type: 'st'}
 ];
 
 
